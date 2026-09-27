@@ -66,11 +66,9 @@ A web-based Python project that analyzes text input and identifies its sentiment
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Rayna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayna-15\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayna-15\&layout=compact\&hide_border=true)
+I regularly work on Python, SQL, and web development projects while building my programming skills.
 
 ---
 
@@ -79,6 +77,8 @@ A web-based Python project that analyzes text input and identifies its sentiment
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rayna-mo-irfan/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rayna-15)
+
+ **Email:** raynamohmmadirfan@gmail.com
 
 ---
 
